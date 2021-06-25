@@ -51,6 +51,11 @@ nav li:hover {
   width: 60px;
 }
 
+h1 {
+  font-size: 30px;
+  color: #FF0070;
+}
+
 .thumbnails {
   display: none;
   grid-template-columns: repeat(5, 56px);
