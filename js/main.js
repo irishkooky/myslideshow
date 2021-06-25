@@ -2,14 +2,17 @@
 
 {
   const images = [
-    'img/pic00.png',
-    'img/pic01.png',
-    'img/pic02.png',
     'img/pic03.png',
-    'img/pic04.png',
-    'img/pic05.png',
-    'img/pic06.png',
-    'img/pic07.png',
+    'img/pic02.png',
+    'img/pic01.png',
+    'img/yuta1.jpg',
+    'img/yuta2.jpg',
+    'img/yuta3.jpg',
+    'img/yuta4.jpg',
+    'img/sena1.jpg',
+    'img/yuta6.jpg',
+    'img/yuta7.jpg',
+    'img/ichigo.jpg',
   ];
   let currentIndex = 0;
 
@@ -60,7 +63,7 @@
     timeoutId = setTimeout(() => {
       next.click();
       playSlideshow();
-    }, 1000);
+    }, 3000);
   }
 
   let isPlaying = false;
