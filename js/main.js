@@ -13,6 +13,7 @@
     'img/yuta6.jpg',
     'img/yuta7.jpg',
     'img/sena2.jpg',
+    'img/kazuto.jpg',
     'img/ichigo.jpg',
   ];
   let currentIndex = 0;
